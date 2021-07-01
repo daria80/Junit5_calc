@@ -1,3 +1,5 @@
+package exe1;
+
 public class RunTests {
     public static void main(String[] args) {
         try {
